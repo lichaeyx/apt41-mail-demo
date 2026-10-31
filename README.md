@@ -17,7 +17,7 @@ APT41 TOUGHPROGRESS 기반 CHEIRON BAS 프로젝트의 초기 침투(Initial Acc
 ```text
 apt41-mail-demo/
 ├── README.md
-├── apt-41-demo-with-readme
+├── apt-41-demo.zip
     └── index.html
     └── style.css
     └── files/
